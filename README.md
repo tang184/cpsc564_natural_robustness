@@ -6,7 +6,5 @@ The code is written using Python Jupyter Notebook to display results of the eval
 For each model sub directory, it includes the augmentation method(either python file or notebook), the training notebook, and the evaluation notebook and the generated ResNet18 weight model which can be used for future analysis.
 
 Reference: 
-
 https://github.com/hendrycks/imagenet-r
-
 https://github.com/hendrycks/robustness/tree/master/ImageNet-C
